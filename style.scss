@@ -1,0 +1,97 @@
+// @import "@fortawesome/fontawesome-free/css/all.css";
+// @import "node_modules/bootstrap/scss/bootstrap";
+
+
+body{
+
+
+    background-image: url('static/atlantide.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    position: relative;
+    
+
+
+}
+
+#octopu{
+
+
+    background-image: url('static/5a223749a72375.3684409915121918176846.png');
+    background-size: 13%;
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 1258px;
+    position: absolute;
+    top: 550px;
+    left: 1250px;
+}
+
+#milenium{
+
+
+    background-image: url('static/starWars.png');
+    background-size: 15%;
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 1000px;
+    position: absolute;
+    top: 317px;
+    left: 0px;
+    transform: rotate(45deg);
+}
+
+#megalodon{
+
+
+
+
+    background-image: url('static/megalodon.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    top: 25px;
+    left: 1228px;
+
+
+
+}
+
+.poisson{
+
+
+    background-image: url('static/kisspng-subnautica-oculus-rift-xbox-one-leviathan-pepper-5ad620363beab8.5440256415239823902454.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 60px;
+    width: 150px;
+    position: absolute;
+    top: 90px;
+    right: 61px;
+
+
+}
+
+#baracouda{
+
+
+    background-image: url('static/png-clipart-fish-fish.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 50px;
+    width: 150px;
+    position: absolute;
+    top: 90px;
+    left: 0px;
+
+
+}
+
+
+
+
+
+
